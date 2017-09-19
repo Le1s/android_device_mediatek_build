@@ -1,0 +1,4 @@
+//ALPS_SW/MP/L0.MP6/alps/.*/.*\.h
+//ALPS_SW/MP/L0.MP6/alps/vendor/mediatek/proprietary/protect/
+//ALPS_SW/MP/L0.MP6/alps/vendor/mediatek/proprietary/protect-app/
+//ALPS_SW/MP/L0.MP6/alps/vendor/mediatek/proprietary/protect-bsp/
